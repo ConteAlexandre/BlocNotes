@@ -23,7 +23,7 @@ For install this project, here are the following commands:
 #### Without IDE
 Start just one command in the terminal which is in the repository of the project :
 ```
-- python3 noteManager.py
+- python3 noteManager_UI.py
 ```
 * And now you have launch application, have fun
 
